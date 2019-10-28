@@ -2,7 +2,7 @@ import React from "react";
 
 import { Header, Footer } from "./components/Layouts";
 
-import Exercises from "./components/Exercices";
+import Exercises from "./components/Exercises";
 
 export default class App extends React.Component {
   render() {
